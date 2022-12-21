@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="19.6cm"
+   height="6.8000002cm"
+   viewBox="0 0 196 68.000006"
+   version="1.1"
+   id="svg7712"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="siscologonova.svg">
+  <defs
+     id="defs7706" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="351.42478"
+     inkscape:cy="179.44451"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="cm" />
+  <metadata
+     id="metadata7709">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-228.99993)">
+    <g
+       id="g900"
+       transform="translate(-9.0714286,219.22619)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         ry="0.18127239"
+         rx="0.1812724"
+         y="16.541666"
+         x="23.226864"
+         height="55.940479"
+         width="168.23676"
+         id="rect8259"
+         style="opacity:1;fill:#006d77;fill-opacity:1;stroke:#ffffff;stroke-width:0.66499996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         ry="0.18127239"
+         rx="0.18127239"
+         y="21.979656"
+         x="28.063303"
+         height="44.901283"
+         width="44.901283"
+         id="rect8263"
+         style="opacity:1;fill:#fdfdfd;fill-opacity:1;stroke:#ffffff;stroke-width:0.66499996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text8267"
+         y="61.895473"
+         x="34.481861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.81517029px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;letter-spacing:0px;word-spacing:0px;fill:#006d77;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chilanka;-inkscape-font-specification:Chilanka;fill:#006d77;fill-opacity:1;stroke-width:0.26458329"
+           y="61.895473"
+           x="34.481861"
+           id="tspan8265"
+           sodipodi:role="line">S</tspan></text>
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.51878357px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+         x="77.186562"
+         y="58.055237"
+         id="text8271"><tspan
+           sodipodi:role="line"
+           id="tspan8269"
+           x="77.186562"
+           y="58.055237"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chilanka;-inkscape-font-specification:Chilanka;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329">SISCO</tspan></text>
+    </g>
+  </g>
+</svg>

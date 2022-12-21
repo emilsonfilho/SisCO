@@ -1,0 +1,183 @@
+:root {
+    /* Fonts */
+    --montserrat: 'Montserrat', sans-serif;
+    --opensans: 'Open Sans', sans-serif;
+    --poppins: 'Poppins', sans-serif;
+
+    /* Pallete */
+    --azulescuro: #006d77;
+    --azulclaro: #83c5be;
+    --branco: #edf6f9;
+    --laranjaclaro: #ffddd2;
+    --laranjaescuro: #e29578;
+}
+
+@media screen and (min-width: 580px) {
+    .gradient {
+        padding: 50px;
+    }
+}
+
+@media screen and (min-width: 740px) {
+    .welcome > h1 {
+        font-size: 3em;
+    }
+
+    .welcome > img {
+        width: 200px;
+    }
+
+    .gradient {
+        padding: 90px;
+    }
+
+    .container > a {
+        font-size: 1.4em;
+        padding-top: 50px;
+    }
+}
+
+@media screen and (min-width: 930px) {
+    .form-control > input {
+        font-size: 1.4em;
+        height: 40px;
+        margin-left: 8px;
+    }
+
+    .form-control > ion-icon {
+        font-size: 2.8em;
+    }
+
+    .button {
+        display: flex;
+        justify-content: center;
+    }
+
+    .btn {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .gradient {
+        padding: 250px;
+    }
+}
+
+@media screen and (min-width: 1460px) {
+    .welcome > h1 {
+        font-size: 4em;
+    }
+
+    .welcome > img {
+        width: 250px;
+    }
+    
+    .gradient {
+        padding: 350px;
+    }
+
+    .campo > label {
+        font-size: 2em;
+    }
+
+    .form-control {
+        padding: 18px;
+    }
+
+    .form-control > input {
+        font-size: 2em;
+    }
+
+    .form-control > ion-icon {
+        font-size: 4em;
+    }
+
+    .container > a {
+        font-size: 2em;
+    }
+
+    .btn {
+        padding: 28px 55px;
+        border-radius: 60px;
+    }
+}
+
+@media screen and (min-width: 1560px) {
+    .login {
+        display: flex;
+        background-image: url('/img/deserto.jpg');
+        background-size: cover;
+    }
+
+    .welcome h1 {
+        color: var(--branco);
+        font-size: 4.6em;
+    }
+
+    .welcome img {
+        width: 300px;
+    }
+
+    .campo > label {
+        color: var(--branco);
+    }
+
+    .container > a {
+        color: var(--branco);
+    }
+
+    .container > a:hover {
+        color: var(--azulclaro);
+    }
+
+    main.gradient {
+        background-image: none;
+        background-color: #006d779c;
+        padding: 150px;
+    }
+    
+    .login > .imagem {
+        display: flex;
+    }
+
+    .login > .imagem,
+    .login > main {
+        width: 50%;
+    }
+
+    .imagem {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        background-color: #edf6f99c;
+    }
+
+    .imagem > img {
+        width: 1000px;
+    }
+
+    .gradient {
+        padding: 128px;
+    }
+
+    .button {
+        padding: 48px 160px 0px 160px;
+    }
+
+    .btn {
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 4060px) {
+    main.gradient {
+        padding: 400px;
+    }
+
+    .btn {
+        font-size: 2em;
+        width: 50%;
+    }
+}
